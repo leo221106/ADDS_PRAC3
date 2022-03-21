@@ -1,0 +1,14 @@
+#include <iostream>
+#include <array>
+#include "Player.h"
+#include "Human.h"
+#include "Computer.h"
+#include "Referee.h"
+#include "Avalanche.h"
+#include "RandomComputer.h"
+#include "Bureaucrat.h"
+#include "Toolbox.h"
+#include "Crescendo.h"
+#include "PaperDoll.h"
+#include "FistfullODollars.h"
+#include "Tournament.h"
